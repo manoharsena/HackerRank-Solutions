@@ -4,6 +4,7 @@ int main()
 {	
     char s[100];
     scanf("%[^\n]%*c", &s);
+    
     // [^\n] - everything upto \n, but not \n
     // %c - scan \n
     // * - discard what is scanned
