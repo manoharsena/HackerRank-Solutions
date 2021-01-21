@@ -1,5 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/manoharsena/HackerRank_Solutions.svg?style=flat)
 ![GitHub top language](https://img.shields.io/github/languages/top/manoharsena/HackerRank_Solutions.svg?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/manoharsena/HackerRank_Solutions.svg?cache=remove)
 
 # HackerRank-Solutions
 <p align="center">
