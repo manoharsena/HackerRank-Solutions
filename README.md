@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/github/license/manoharsena/HackerRank_Solutions.svg?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/manoharsena/HackerRank_Solutions.svg?style=flat)
+
 # HackerRank-Solutions
 <p align="center">
     <a href="https://www.hackerrank.com/senamecse">
